@@ -1,6 +1,6 @@
-### Hi! Welcome to Kidong Kim's Github Profile 👋 
+#### Hi! Welcome to Kidong Kim's Github Profile 👋 
 
-#### Languages
+## Languages
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -13,7 +13,7 @@
 
 <br/>
 
-#### Github stats
+## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidong-Kim&exclude_repo=dotfiles&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
